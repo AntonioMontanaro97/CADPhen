@@ -6,3 +6,5 @@ Lo script "db_patologie" permette di andare a ordinare l'informazione della pato
 relazione alle patologie che sono state diagnosticate. Tale script potrebbe essere molto utile soprattutto in futuro quando verrà presa in considerazione anche tale informazione.
 
 Lo script "ValutazioneImputing" rappresenta un primo approccio per la valutazione a posteriori dell'imputazione svolto dall'algoritmo prescelto. L'idea è quella di svolgere dei test statistici che valutano la proporzione rispetto alla classe dei dati imputati contro quelli non imputati. 
+
+Lo script "PredictionModel_RiskScore" permette di andare a valutare diversi modelli di predizione partendo dai dati raccolti nello studio. Sono stati anche confrontati i diversi modelli con dataset a cui di volta in volta è stata aggiunta diverso tipo di informazione.
