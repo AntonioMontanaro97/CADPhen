@@ -1,5 +1,5 @@
 # CADPhen
-## APPROCCI DI APPRENDIMENTO NON SUPERVISIONATOPER L'ANALISI E IL CONFRONTO DI FENOTIPI EDENDOTIPI NELLA MALATTIA CORONARICA
+## APPROCCI DI APPRENDIMENTO NON SUPERVISIONATOPER L'ANALISI E IL CONFRONTO DI FENOTIPI ED ENDOTIPI NELLA MALATTIA CORONARICA
 ### Abstract
 Il presente progetto di tesi si è svolto nell’ambito del progetto “Intestrat-cad” (Integrated Stratification Tools in Coronary Artery Disease) coordinato dal centro cardiologico Monzino IRCCS. Il progetto Intestrat-cad coinvolge 829 pazienti in uno studio prospettico osservazionale, con lo scopo di stratificare una popolazione affetta da malattia coronarica, la cui incidenza, negli ultimi anni è in notevole aumento. 
 Lo scopo principale del progetto è una comprensione più dettagliata e approfondita del motivo per cui alcuni pazienti classificati come a basso rischio tramite gli attuali approcci ed indicatori di rischio cardiovascolare, in realtà incorressero in manifestazioni acute come infarti, angina instabile o morte istantanea. A tal proposito si è voluto migliorare la capacità di individuare questi soggetti in modo da poterli riconoscere preventivamente e curare tempestivamente. Nell’ambito del progetto “Intestrat-cad” il profilo di rischio si baserà su tre diversi componenti: entità della placca coronarica, profilo clinico-fisiopatologico e dati omici. 
